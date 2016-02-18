@@ -1,0 +1,260 @@
+li{
+	font-family: "OpenSans-Bold";
+	display: inline-block;
+	list-style:none;
+	text-decoration:none;
+	padding:5px;
+	margin-bottom: 50px;
+	border-right: 2px solid;
+	margin-top: 50px;
+	margin-left: 60px;
+	padding-left: 5px;
+	color: 	#C0C0C0	;
+
+}
+.logo{
+	max-width: 120px;
+	margin-top: 10px;
+	margin-left: 80px;
+
+}
+.flor{
+	background: url("../img/semilla.jpg");
+	background-position: center;
+	background-size: 100%;
+	height:300px;
+}
+.gris{
+	background-color:#E8E8E8 ;
+	background-size: 100% 100%;
+	height: 150px;
+
+}
+.genero{
+	font-family:"OpenSans-Light";
+	font-size:15px;
+	text-align: center;
+	color:  #989898	;
+	margin-top:70px;
+
+}
+.mision{
+	max-width: 120px;
+	margin-top:50px;
+	margin-left: 145px;
+
+}
+.parrafos{
+	font-family:"OpenSans-Light";
+	font-size:15px;
+	text-align: center;
+	color:  #989898	;
+	margin-top:40px;
+
+
+}
+/*<!-- el uno lo ocupe para modificar el h2 -->*/
+.uno{
+	font-family: "OpenSans-Light";
+	margin-top: 20px;
+}
+
+.verde{
+	background-image: url("../img/fondo.jpg");
+	height: 350px;
+	margin-top:50px; 
+}
+.orchestra{
+	width: 700px;
+	height: 350px;
+}
+.metodologia{
+	margin-left:320px;
+	margin-top: 100px;
+
+}
+.meto{
+	color: white;
+	margin-left:280px;
+	margin-top: 30px;
+	font-family: "OpenSans-Light";
+
+}
+.mujer{
+	font-family:"OpenSans-Light";
+	font-size:10px;
+	text-align: center;
+	color: white;
+	margin:30px 30px 40px 55px;
+
+
+}
+.servicios{
+	text-align: center;
+	margin-top:50px;
+	font-family:"OpenSans-Light";
+
+
+}
+.parrafoservicios{
+	text-align: center;
+	font-family:"OpenSans-Light";
+	color:#A0A0A0;
+	margin-top:35px;
+
+
+}
+.icon{
+	margin-top:80px;
+	margin-left:50px; 
+}
+.ticon{
+	text-align: center;
+	font-family:"OpenSans-Light";
+	color:#A0A0A0;
+	margin-top:15px;
+	font-size:15px;
+}
+.paricon{
+	text-align: center;
+	font-family:"OpenSans-Light";
+	color:#A0A0A0;
+	margin-top:15px;
+	font-size:13px;
+}
+.imgen{
+	max-width: 500px;
+	margin-top: 80px;
+	
+
+}
+.imagen{
+	width:500px;
+}
+.nombre{
+	text-align: center;
+	font-family:"OpenSans-Light";
+	color:white;
+	margin-top:80px;
+	margin-left:180px;
+}
+.nom{
+	text-align: center;
+	font-family:"OpenSans-Light";
+	color:white;
+	margin-left:180px;
+
+}
+.segundo{
+	font-family: "OpenSans-Regular";
+	text-align: center;
+	color:#A0A0A0;
+	font-size: 12px;
+	margin-left:180px;
+
+}
+.pic{
+	width: 200px;
+	height: 200px;
+	border-radius: 150px;
+	margin-top: 100px;
+	margin-left: 100px;
+}
+.cargo{
+	text-align: center;
+	font-family:"OpenSans-Light";
+	color:#707070;
+	color:black;
+	margin-top:15px;
+}
+.redes{
+	max-width:40px;
+	margin: 10px;
+	
+}
+.todo{
+	margin-left: 120px;
+}
+.fotogris{
+	background-image: url("../img/fondo2.jpg");
+	height: 490px;
+	margin-top:50px;
+
+
+}
+.nino{
+	width:270px;
+	height: 250px;
+	margin-top: 50px;
+	
+
+
+}
+.flecha{
+	margin-bottom: 80px;
+	max-width: 250px;
+	position: absolute;
+	margin-left: 1200px;
+	margin-bottom: 500px;
+
+
+}
+.block{
+	
+	font-family:"OpenSans-Light";
+	color:#707070;
+	
+
+}
+.fecha{
+	font-family:"OpenSans-Light";
+	color:#707070;
+	
+
+
+}
+.blo{
+	display: absolute;
+
+}
+.ultimo{
+	background-color: 	#606060 ;
+	height: 350px;
+
+}
+.cuadro{
+	background-color: #606060 ;
+	width: 300px;
+	height: 400px;
+	border: 2px white;
+
+}
+table{
+	margin-top: 50px;
+	width: 1000px;
+	height: 200px;
+}
+td{
+	
+	width: 300px;
+	height: 250px;
+	border-left: 1px solid white;
+	border-top:solid white;
+	border-left: solid white;
+	border-right: solid white;
+	border-bottom: solid white;
+
+
+
+}
+.png{
+	max-width: 50px;
+	margin-top: 130px;
+	margin-left: 80px;
+}
+.sc{
+	font-family:"OpenSans-Light";
+	color:	#C8C8C8	;
+	margin: 20px;
+
+}
